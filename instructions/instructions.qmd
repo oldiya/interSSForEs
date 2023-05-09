@@ -1,0 +1,89 @@
+---
+title: "Instructions"
+format: pdf
+editor: visual
+---
+
+## Input data 
+
+-   DBH \> 10cm
+
+## What we need 
+
+Other coach to check time and provide passwords to get the putputs if they did not reach the milestone
+
+## Organization
+
+Each group will have 4 subgroups
+
+Sub 1 - PB Q1
+
+Sub 2 - PB Q2
+
+Sub 3 - EM Q1
+
+Sub 4 - EM Q2
+
+4 coaches will stay with one group each
+
+Each group will do one forest type with the process based and one model type + species on the empirical modeling
+
+## Process based modeling
+
+Questions
+
+IS the forests more diverse under different climate scenarios?
+
+Is the forest able to capture come Co2 under different climate scenarios?
+
+How
+
+Run simulations with iLand, each group will run the simulations from different starting points matching the 4 forests measured in the field.
+
+100 year simulation
+
+Time
+
+45 figure out instructions
+
+lunch
+
+1h Simulation with BAU and alternative scenarios defined by them
+
+milestone: DATA IS GIVEN
+
+1h Answer the questions with the outputs and discuss with the subgroup 1-2 to understand the other subgroup approach
+
+coffee
+
+45 Discuss with subgroup 3-4 how empirical findings might be used with the PB outputs
+
+30 Prepare presentations
+
+## Empirical modeling
+
+Questions
+
+What is the probability of a spp A or B to live in that forest?
+
+What variables are important for this spp?
+
+Time
+
+Time
+
+45 figure out instructions
+
+lunch
+
+1h Explore data, select variables, run models
+
+milestone: SCRIPT IS GIVEN
+
+1h Analyse results answer the question
+
+coffee
+
+45 Discuss with subgroup 3-4 how empirical findings might be used with the PB outputs
+
+30 Prepare presentations
